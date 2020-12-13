@@ -11,4 +11,4 @@ client.on('message', msg => {
     }
 });
 
-client.login('Nzg3NjI2NDkzNDI5MDIyNzIw.X9XsVQ.9fMcAkBrhVkI6lHiAbeuZXHAWJA');
+client.login('Discord Bot Token Goes Here');
